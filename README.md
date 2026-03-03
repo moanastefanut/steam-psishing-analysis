@@ -21,8 +21,5 @@ A Steam user was targeted by a phishing page offering fake "vote to win skins/kn
 - Low-effort backend on disposable vps  
 - Clear impersonation attempt
 
-## Video
-YouTube: https://youtu.be/qsYza5weW3E
-
 ## Disclaimer
-For educational and defensive use only.
+For educational and defensive use only. I recommend to get 2FA on all of your accounts and don't trust these types of sites.
